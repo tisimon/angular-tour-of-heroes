@@ -18,10 +18,10 @@ nav a {
   border-radius: 4px;
 }
 nav a:visited, a:link {
-  color: #607D8B;
+  color: #2f2fef;
 }
 nav a:hover {
-  color: #039be5;
+  color: #e5212b;
   background-color: #CFD8DC;
 }
 nav a.active {
